@@ -1,27 +1,89 @@
-Keyword: int
+Identifier: void
 Keyword: main
 Punctuation: (
 Punctuation: )
 Punctuation: {
+Keyword: long
 Keyword: int
-Identifier: a
-Operator: =
-Constant: 5
+Identifier: bs
 Punctuation: ,
-Lexical Error: 7H
+Identifier: da
+Punctuation: ,
+Identifier: hra
+Punctuation: ,
+Identifier: gs
 Punctuation: ;
-Keyword: char
-Identifier: b
+Identifier: scanf
+Punctuation: (
+Lexical Error: "%d"
+Punctuation: ,
+Operator: &
+Identifier: bs
+Punctuation: )
+Punctuation: ;
+Identifier: da
 Operator: =
-Lexical Error: 'x'
+Identifier: bs
+Operator: *
+Lexical Error: .40
 Punctuation: ;
-Keyword: return
-Identifier: a
+Identifier: hra
+Operator: =
+Identifier: bs
+Operator: *
+Lexical Error: .20
+Punctuation: ;
+Identifier: gs
+Operator: =
+Identifier: bs
 Operator: +
-Identifier: b
+Identifier: da
+Operator: +
+Identifier: hra
+Punctuation: ;
+Identifier: printf
+Punctuation: (
+Lexical Error: "\n\nbs
+Lexical Error: :
+Lexical Error: %ld"
+Punctuation: ,
+Identifier: bs
+Punctuation: )
+Punctuation: ;
+Identifier: printf
+Punctuation: (
+Lexical Error: "\n\da
+Lexical Error: :
+Lexical Error: %ld"
+Punctuation: ,
+Identifier: da
+Punctuation: )
+Punctuation: ;
+Identifier: printf
+Punctuation: (
+Lexical Error: "\n\nhra
+Lexical Error: :
+Lexical Error: %ld"
+Punctuation: ,
+Identifier: hra
+Punctuation: )
+Punctuation: ;
+Identifier: printf
+Punctuation: (
+Lexical Error: "\n\ngs
+Lexical Error: :
+Lexical Error: %ld"
+Punctuation: ,
+Identifier: gs
+Punctuation: )
 Punctuation: ;
 Punctuation: }
 
 Symbol Table Entries:
-1. a
-2. b
+1. void
+2. bs
+3. da
+4. hra
+5. gs
+6. scanf
+7. printf
