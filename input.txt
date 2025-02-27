@@ -1,0 +1,14 @@
+Enter multiple lines (type 'END' to finish input):
+The 45 is odd.
+100 + 20 = 		120.
+Special chars: @ # $ % ^ & * !
+END
+
+Characters: 64
+Words: 12
+Lines: 3
+Whitespace (spaces): 9
+Whitespace (tabs): 0
+Special Characters: 12
+Identifiers: 5
+Literals: 3
